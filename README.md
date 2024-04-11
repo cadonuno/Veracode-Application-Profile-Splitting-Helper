@@ -1,4 +1,4 @@
-# Veracode Aplication Profile Splitting Helper
+# Veracode Application Profile Splitting Helper
 
 ## Overview
 
